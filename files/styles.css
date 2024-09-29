@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Blast Font";
+    src: url('./fe56d5dce41a32b8-s.p.otf')
+}
+
+* {
+    font-family: "Blast Font"; 
+}
+
+:root {
+    font-family: "Blast Font";
+}
+
+p {
+    font-family: "Blast Font"
+}
